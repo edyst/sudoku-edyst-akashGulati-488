@@ -267,9 +267,9 @@ window.onload = () => {
         }
       }
       if (z == true) {
-        alert("Congratulations You Have Solved it Correctly !🎉🎉");
+        alert("Congratulations You Have Solved It !🥳");
       } else {
-        alert("You Have Made Some Mistake !❌");
+        alert("You Have Made Some Mistake !😔");
       }
     };
   };
